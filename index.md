@@ -13,7 +13,7 @@ het slijm wordt in het laboratorium getest
 *hoe werkt dat?*  
 de test kijkt naar het genetisch materiaal van het coronavirus  
 *wat betekent een positief resultaat?*  
-je heb het virus  
+je hebt het virus  
 
 **doel van de test via het bloed**  
 antwoord op de vraag "heb ik het gehad?"  
