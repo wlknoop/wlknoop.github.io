@@ -26,7 +26,7 @@ er wordt een vloeistof toegevoegd
 *hoe werkt dat?*  
 door de reactie van bloed en vloeistof worden er antilichamen gedetecteerd die het lichaam heeft aangemaakt na de strijd met het virus  
 *wat betekent een positief resultaat?*  
-_je hebt het virus gehad_
+je hebt het virus gehad
 
 Voor meer gegevens over de soorten van testen zie [Wikipedia](https://nl.wikipedia.org/wiki/COVID-19-diagnostiek)
 
