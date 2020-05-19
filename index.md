@@ -4,6 +4,7 @@
 
 **doel van de test via het slijmvlies**  
 antwoord op de vraag "heb ik het?"  
+
 *hoe lang wachten op resultaat*  
 1 a 2 dagen  
 *wat is er nodig*  
@@ -17,6 +18,7 @@ je hebt het virus
 
 **doel van de test via het bloed**  
 antwoord op de vraag "heb ik het gehad?"  
+
 *hoe lang wachten op resultaat*  
 enkele seconden  
 *wat is er nodig*  
