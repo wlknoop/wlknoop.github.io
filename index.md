@@ -32,5 +32,5 @@ je hebt het virus gehad
 
 Voor meer gegevens over de soorten van testen zie [Wikipedia](https://nl.wikipedia.org/wiki/COVID-19-diagnostiek)
 
-Voor een beschrijving van de begrippen die bij Corona een rol spelen zie [begrippen](https://.begrippen.html)
+Voor een beschrijving van de begrippen die bij Corona een rol spelen zie [begrippen](https://../begrippen.html)
 
