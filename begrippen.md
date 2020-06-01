@@ -1,7 +1,7 @@
-**** begrippen
+### begrippen
 
-***** begrippen bij verspreiding
+#### begrippen bij verspreiding
 
-****** superspreading event
+##### superspreading event
 
 Dit is iets  waarbij één of een beperkt aantal mensen een heleboel andere mensen besmetten tijdens een bepaalde gebeurtenis.
