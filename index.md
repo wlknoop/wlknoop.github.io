@@ -34,3 +34,4 @@ Voor meer gegevens over de soorten van testen zie [Wikipedia](https://nl.wikiped
 
 Voor een beschrijving van de begrippen die bij Corona een rol spelen zie [begrippen](https://wlknoop.github.io/begrippen.html)
 
+Voor een beschrijving van een tracing systeem dat in ontwikkeling is zie [tracing](https://wlknoop.github.io/tracing.html)
