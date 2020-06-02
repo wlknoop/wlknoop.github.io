@@ -8,6 +8,8 @@ Privacy Preserving: er worden geen persoonlijke gegevens uitgewisseld.
 
 Proximity Tracing: er wordt op de mobieltjes onderling gebruik gemaakt van Bluetooth (BLE: Bluetooth Low Energy)
 
+De bron van bovenstaande informatie is een [artikel in het tijdschrift Heise.de](https://www.heise.de/hintergrund/Corona-Tracking-Wie-Contact-Tracing-Apps-funktionieren-was-davon-zu-halten-ist-4709903.html).
+
 De ontwikkelaars werken samen via [Github](https://github.com/DP-3T/)
 
 
