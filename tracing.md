@@ -2,7 +2,7 @@ Het systeem voor het volgen van een persoon (tracing) maakt het mogelijk dat nag
 Zo'n systeem wordt op het ogenblik door Google, Apple en een groep onafhankelijke Europese onderzoekers ontwikkeld en heeft de afkorting DP3T gekregen.
 Deze afkorting staat voor Decentralized Privacy Preserving Proximity Tracing Protocol.
 
-Decentralized: het bestaat uit de lokale apps op de mobieltjes en een centrale infrastuctuur.
+Decentralized: het bestaat uit de lokale apps op de mobieltjes en een centrale infrastructuur.
 
 Privacy Preserving: er worden geen persoonlijke gegevens uitgewisseld.
 
